@@ -1,17 +1,12 @@
-# The Movie Database App
-
-A Vue.js project.
-
-![](https://github.com/dmtrbrl/tmdb-app/blob/master/docs/demo.gif)
-
+# Movie Front End App
 ## Demo
 
-[TMDB Vue App](https://tmdb-vue-app.herokuapp.com/)
+[App](http://spa.ngrok.io/)
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+# install dependencies (make sure you have python in your PATH)
 npm install
 
 # serve with hot reload at localhost:8080
@@ -21,8 +16,3 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-This app uses [history mode](https://router.vuejs.org/en/essentials/history-mode.html)
-
-## License
-[MIT](https://github.com/dmtrbrl/tmdb-app/blob/master/LICENSE)
